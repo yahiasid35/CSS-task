@@ -1,0 +1,195 @@
+
+body{
+
+    margin: 0px;
+}
+
+
+.top {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.top_half{
+
+    width: 50%;
+  
+    padding:5px;
+    padding-left: 30px;
+   
+
+}
+
+.top_other_half{
+
+    width: 50%;
+   
+   
+}
+
+.MiddleSection {
+
+width: 100%;
+display: flex;
+justify-content: space-between;
+background-image: url("Images/back.png");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+img.MiddleSection_half {
+
+    width: 20%;
+    padding-left: 20%;
+  
+}
+
+.MiddleSection_another_half {
+
+    width: 50%;
+    padding: 40px;
+  
+
+
+}
+ 
+.Third_section {
+
+
+    text-align: center;
+    padding: 5px 500px;
+}
+
+.Fourth_Section {
+
+    width: 70%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Fifth_Section {
+
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: 2px 2px 20px 5px #b6b6b6;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+
+
+}
+
+
+
+.footer{
+
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    margin-top: 30px;
+    padding: 80px 0px;
+
+}
+
+.footerH{
+
+    color: coral;
+}
+
+
+.footer p {
+
+    color: white;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+.Img_card {
+
+    width: 20%;
+    border: none;
+    box-shadow: 2px 2px 20px 5px #b6b6b6;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    
+
+}
+
+.Img_card img {
+
+    width: 100%;
+
+}
+
+.MiddleSection_another_half p {
+
+    text-align: justify;
+    padding: 0px 200px;
+}
+
+.MiddleSection_another_half h1 {
+
+    text-align: center;
+}
+
+
+.MiddleSection_another_half button {
+
+
+    margin: 0px 200px
+}
+
+
+
+section p{
+
+
+    font-family: 'Rubik', sans-serif;
+    color: #646464;
+}
+
+
+.button{
+    
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px;
+    letter-spacing: 1px;
+    box-shadow: 3px 3px 12px 8px #e0e0e0;
+    color: white;
+}
+
+.button1 {
+
+    background-image: linear-gradient(to right, #f0680d, #f1a008);
+
+}
+
+h1{
+
+    font-family: 'Rubik', sans-serif;
+    color: #3a3a3ae5;
+    font-size: 50px
+}
+
+h2 {
+
+    font-family: 'Rubik', sans-serif;
+    color: #3a3a3ae5;
+    font-size: 30px;
+
+
+}
