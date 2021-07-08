@@ -33,7 +33,8 @@ body{
 width: 100%;
 display: flex;
 justify-content: space-between;
-background-image: url("Images/back.png");
+background-image: url("../Images/back.png");
+
 background-repeat: no-repeat;
 background-size: cover;
 
